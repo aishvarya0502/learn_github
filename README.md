@@ -1,2 +1,3 @@
 # learn_github
-learning github cloning
+learning github cloning remote repo
+cloning now by making a branch 
